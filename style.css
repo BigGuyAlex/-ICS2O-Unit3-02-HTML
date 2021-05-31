@@ -1,0 +1,12 @@
+table, th, td {
+  border: 1px solid black;
+}
+
+h1 {
+  background-color: black;
+  color: white;
+}
+
+p {
+  text-align: center;
+}
